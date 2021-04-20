@@ -1,5 +1,7 @@
 # brand-guru
 
+
+
 ## Purpose
 A marketing agency accessible website
 
