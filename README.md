@@ -10,5 +10,8 @@ A marketing agency accessible website
 ## Website
 https://JJLindsey.github.io/brand-guru/
 
+## screenshot
+
+
 ## Contribution
 Made with ❤️ by jenniferlindsey
