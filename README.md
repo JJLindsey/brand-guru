@@ -7,7 +7,7 @@ A marketing agency accessible website
 * HTML
 * CSS
 
-## Website
+## web live link
 https://JJLindsey.github.io/brand-guru/
 
 ## screenshot
