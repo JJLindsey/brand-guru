@@ -10,7 +10,7 @@ A marketing agency accessible website
 ## Live web link
 https://JJLindsey.github.io/brand-guru/
 
-<img src="assets/screenshot/HoriseanMockUp.png">
+<img src="assets/screenshot/HoriseanScreen.png" height=400>
 
 
 ## Contribution
